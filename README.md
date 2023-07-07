@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Tourly Desktop Demo](desktop.png")
 
 ### Prerequisites
 
