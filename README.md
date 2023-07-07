@@ -23,7 +23,8 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](desktop.png")
+<img src="" />
+
 
 ### Prerequisites
 
